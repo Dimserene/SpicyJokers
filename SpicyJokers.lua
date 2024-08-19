@@ -110,7 +110,7 @@ SMODS.Joker{
     end
     }
 
-SMODS.Joker{
+--[[SMODS.Joker{
         name = "Business Joker",
         key = 'business_joker',
 
@@ -150,7 +150,7 @@ SMODS.Joker{
             end
         end
 
-}
+}]]
 SMODS.Joker{
     name = "Sagittarius A*",
     key = 'void',
